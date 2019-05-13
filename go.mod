@@ -1,4 +1,4 @@
-module github.com/hashicorp/serf
+module github.com/zuweiliu/serf
 
 require (
 	github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e
